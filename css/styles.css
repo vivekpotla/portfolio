@@ -1,0 +1,155 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #2e2e2e;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #32e0c4;
+  margin: 40px auto 40px auto;
+  border-width:10px;
+  width: 6%;
+}
+p{
+  font-size: 20px;
+}
+.name-heading{
+  padding-bottom: 180px;
+}
+h1{
+  font-size: 5.5rem;
+  color: #31326f;
+  font-family: 'Sacramento', cursive;
+  margin: 50px auto 0 auto;
+}
+h1:hover{
+  color: #353685;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  margin-top: 0;
+  color: #31326f;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+.a_programmer{
+  font-weight: normal;
+}
+.mountain{
+  width: 70%;
+  position: relative;
+  top: 4px;
+}
+.top_container{
+  background-color: #dbf6e9;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container{
+}
+.profile{
+  margin: 100px auto 0 auto;
+  width : 50%;
+}
+.my-image{
+  margin-bottom: 20px;
+  border-radius: 50%;
+}
+.bottom-container{
+  background-color: #9ddfd3;
+  position: relative;
+  padding: 20px 20px 5px 20px;
+  margin-top: 50px;
+}
+
+
+.top_cloud{
+  position: absolute;
+  top: 90px;
+  right:300px;
+}
+.bottom_cloud{
+  position: absolute;
+  top:340px;
+  left:220px;
+
+}
+
+.skill-row{
+  margin: 90px auto 90px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill_image_web{
+  height: 150px;
+  width: 150px;
+  float: left;
+  margin-right: 30px;
+}
+.skill_image_dev{
+  height: 150px;
+  width: 150px;
+  float: right;
+  margin-left: 30px;
+  border-radius: 50%;
+
+}
+.skill_image_inter{
+  height: 150px;
+  width: 150px;
+  float: right;
+  margin-left: 30px;
+  border-radius: 50%;
+}
+.skill_image_photography{
+  height: 150px;
+  width: 150px;
+  float: left;
+  margin-right: 30px;
+}
+.footer-link{
+  color : #11999E;
+}
+.BUTTON_QVB {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #31326F;
+   font-family: 'Montserrat';
+   font-size: 20px;
+   font-weight: 400;
+   padding: 15px;
+   background-color: #FFDADA;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-top: 20px;
+}
+
+.BUTTON_QVB:hover {
+   background: #9DDFD3;
+   border: solid #9DDFD3 1px;
+   -webkit-border-radius: 12px;
+   -moz-border-radius: 12px;
+   border-radius: 12px;
+   text-decoration: none;
+}
+.footer-link{
+  padding: 10px;
+  font-size: 20px;
+  text-decoration: none;
+}
+.footer-link:hover{
+  color: white;
+}
+.credit{
+  color: white;
+}
